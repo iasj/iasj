@@ -1,4 +1,4 @@
-I don't use github. See my:
+I don't use github. See my gitlab instead:
 
 1. [Gitlab profile](https://gitlab.com/iasj)
 2. [My projects](https://gitlab.com/dashboard/projects)
